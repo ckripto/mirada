@@ -1,0 +1,2 @@
+This file defines root repository folder for relative paths.
+For more info see get_full_path_for() function.
